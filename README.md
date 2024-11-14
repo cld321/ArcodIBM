@@ -1,3 +1,3 @@
-# ArcodIBM
-# Contains model output and R scripts for data analysis
+# ArcodIBM model output analysis
+# Contains R scripts for data analysis and plots
 # in Revision in Elementa: Science of the Anthropocene Journal
